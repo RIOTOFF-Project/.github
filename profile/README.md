@@ -1,4 +1,4 @@
-[![Header](https://cdn.discordapp.com/attachments/979075441690284058/1039864424967716904/standard.gif)](https://riotoff.bio.link)
+[![Header](https://cdn.discordapp.com/attachments/979075441690284058/1039489474612183131/riotoff_discord_banner.gif)](https://riotoff.bio.link)
 
 # ✅ Hello, this is Organization [RiotOff Project](https://riotoff.ml)!
 
