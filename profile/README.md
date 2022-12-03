@@ -29,9 +29,3 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=008CFF)](https://twitter.com/riotoff)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=0050FF)](https://steamcommunity.com/profiles/76561199382745603/)
 [![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
-
-### 🔨 Browser and extensions:
-
-[![Chrome](https://img.shields.io/badge/-Chrome-090909?style=for-the-badge&logo=googlechrome&logoColor=FFC700)](https://wikipedia.org/wiki/Google_Chrome)
-[![ColorZilla](https://img.shields.io/badge/-ColorZilla-090909?style=for-the-badge)](https://www.colorzilla.com/chrome/)
-[![BlackBox](https://img.shields.io/badge/-BlackBox-090909?style=for-the-badge)](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
